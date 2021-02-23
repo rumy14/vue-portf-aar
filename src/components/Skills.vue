@@ -1,12 +1,17 @@
 <template>
-  <section class="work container">
-    <h2>Contact</h2>
+  <section class="skills container">
+    <h2>Skills</h2>
+    <ul>
+      <li>Photoshop</li>
+      <li>Branding</li>
+      <li>Logo Design</li>
+    </ul>
   </section>
 </template>
 
 <script>
 export default {
-  name: 'Contact'
+  name: 'Skills'
 }
 </script>
 

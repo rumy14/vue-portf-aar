@@ -1,12 +1,12 @@
 <template>
-  <section class="skills container">
-      <h2>Skills</h2>
-      <ul>
-        <li>Photoshop</li>
-        <li>Branding</li>
-        <li>Logo Design</li>
-      </ul>
-    </section>
+<section class="skills container">
+  <h2>Skills</h2>
+  <ul>
+    <li>Photoshop</li>
+    <li>Branding</li>
+    <li>Logo Design</li>
+  </ul>
+</section>
 </template>
 
 <script>
